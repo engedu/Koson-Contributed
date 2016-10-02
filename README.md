@@ -1,4 +1,3 @@
-# Koson-Contributed
 
 ##OOAD-2559
 * [Week 01 การวิเคราะห์และออกแบบโปรแกรมเชิงวัตถุ ](https://github.com/OOAD-2559/OOAD-WEEK01)
