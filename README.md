@@ -31,6 +31,21 @@
 
 
 
+## Desktop-Programming-Lab-2559 
+* [ใบงานที่ 1 เรื่อง การเขียนโปรแกรม Win32 ด้วยภาษา C ] (https://github.com/Desktop-Programming-Lab-2559/LAB-01)
+* [ใบงานที่ 2 การเพิ่ม message map ในโปรแกรม WIn32API ] (https://github.com/Desktop-Programming-Lab-2559/LAB-02)
+* [ใบงานที่ 3 การตรวจจับเหตุการณ์ที่เกิดขึ้นจากเมาส์และคีย์บอร์ด ] (https://github.com/Desktop-Programming-Lab-2559/LAB-03)
+* [ใบงานที่ 4 การใช้งานคำสั่งเกี่ยวกับการแสดงผลบน Text Mode ขั้นพื้นฐานในภาษา C# ] (https://github.com/Desktop-Programming-Lab-2559/LAB-04)
+* [ใบงานที่ 5 การใช้งานคำสั่ง Console.WriteLine() ] (https://github.com/Desktop-Programming-Lab-2559/LAB-05)
+* [ใบงานที่ 6 การใช้งานคำสั่ง Console.Read() และ Console.ReadLine() ] (https://github.com/Desktop-Programming-Lab-2559/LAB-06)
+* [ใบงานที่ 7 พื้นฐานภาษา C# ] (https://github.com/Desktop-Programming-Lab-2559/LAB-07)
+* [ใบงานที่ 8 การเปลี่ยนทิศทางการทำงานของโปรแกรม ] (https://github.com/Desktop-Programming-Lab-2559/LAB-08)
+* [ใบงานที่ 9 การเขียนโปรแกรมกราฟฟิกส์ด้วย GDI+ (1) ] (https://github.com/Desktop-Programming-Lab-2559/LAB-09)
+* [ใบงานที่ 10 การเขียนโปรแกรมกราฟิกส์ด้วย GDI+ (2) ] (https://github.com/Desktop-Programming-Lab-2559/LAB-10)
+* [ใบงานที่ 11 การเขียนโปรแกรมกราฟิกส์ด้วย GDI+ (3) ] (https://github.com/Desktop-Programming-Lab-2559/LAB-11)
+* [ใบงานที่ 12 การเขียนโปรแกรมกราฟิกส์ด้วย GDI+ (4) ] (https://github.com/Desktop-Programming-Lab-2559/LAB-12)
+* [พื้นฐานภาษา C# ](https://github.com/Desktop-Programming-Lab-2559/KB-BASIC-CSharp)
+* [ใบความรู้ การใช้งาน Visual Studio ](https://github.com/Desktop-Programming-Lab-2559/KB-Visual-Studio-Usage)
+* [แหล่งอ้างอิง ](https://github.com/Desktop-Programming-Lab-2559/KB-References)
+ 
 
-
-EmbeddedSystemClass 
